@@ -38,11 +38,16 @@ I am a passionate and highly dedicated **IT Support Specialist** with a deep lov
 
 ---
 
-### 📊 Engineering Metrics
+<!-- ENGINEERING METRICS -->
+<hr />
+
+<h3><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Bar%20Chart.gif" width="25px"> Engineering Metrics</h3>
+
+<br>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hikmalapriliano&show_icons=true&theme=dark&icon_color=00c853&title_color=00c853&text_color=ffffff&bg_color=0d1117" alt="Hikmal's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmalapriliano&layout=compact&theme=dark&icon_color=ff4b11&title_color=ff4b11&text_color=ffffff&bg_color=0d1117" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hikmalapriliano&show_icons=true&theme=dark&icon_color=00c853&title_color=00c853&text_color=ffffff&bg_color=0d1117" alt="Hikmal's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmalapriliano&layout=compact&theme=dark&icon_color=ff4b11&title_color=ff4b11&text_color=ffffff&bg_color=0d1117" alt="Languages" />
 </p>
 
 ---
