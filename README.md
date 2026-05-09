@@ -20,9 +20,9 @@
 
 I am a passionate and highly dedicated **IT Support Specialist** with a deep love for solving technical puzzles. From troubleshooting hardware issues like faulty motherboards to fixing corrupt drivers, I ensure every technical challenge is resolved efficiently.
 
-*   **Infrastructure & Networking:** Proficient in managing seamless network operations across wired and Wi-Fi environments.
-*   **Security Systems:** Specialized expertise in **CCTV systems**, including professional installation, configuration, and maintenance to ensure environmental security.
-*   **Full-stack Development:** Skilled in building robust applications using modern frameworks and managing complex database architectures.
+* **Infrastructure & Networking:** Proficient in managing seamless network operations across wired and Wi-Fi environments.
+* **Security Systems:** Specialized expertise in **CCTV systems**, including professional installation, configuration, and maintenance to ensure environmental security.
+* **Full-stack Development:** Skilled in building robust applications using modern frameworks and managing complex database architectures.
 
 ---
 
@@ -38,16 +38,12 @@ I am a passionate and highly dedicated **IT Support Specialist** with a deep lov
 
 ---
 
-<!-- ENGINEERING METRICS -->
-<hr />
-
-<h3><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Bar%20Chart.gif" width="25px"> Engineering Metrics</h3>
-
-<br>
+### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hikmalapriliano&show_icons=true&theme=dark&icon_color=00c853&title_color=00c853&text_color=ffffff&bg_color=0d1117" alt="Hikmal's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmalapriliano&layout=compact&theme=dark&icon_color=ff4b11&title_color=ff4b11&text_color=ffffff&bg_color=0d1117" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hikmalapriliano&show_icons=true&theme=dark&icon_color=00c853&title_color=00c853&text_color=ffffff&bg_color=0d1117&cache_seconds=3600" alt="Hikmal's Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmalapriliano&layout=compact&theme=dark&icon_color=ff4b11&title_color=ff4b11&text_color=ffffff&bg_color=0d1117&cache_seconds=3600" alt="Languages" />
 </p>
 
 ---
