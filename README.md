@@ -38,13 +38,20 @@ I am a passionate and highly dedicated **IT Support Specialist** with a deep lov
 
 ---
 
-### 📊 Engineering Metrics
+<!-- ENGINEERING METRICS ALTERNATIF -->
+<hr />
+
+<h3>📊 Engineering Metrics</h3>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hikmalapriliano&show_icons=true&theme=dark&icon_color=00c853&title_color=00c853&text_color=ffffff&bg_color=0d1117&cache_seconds=3600" alt="Hikmal's Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmalapriliano&layout=compact&theme=dark&icon_color=ff4b11&title_color=ff4b11&text_color=ffffff&bg_color=0d1117&cache_seconds=3600" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikmalapriliano&theme=dark" alt="Hikmal's Details" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hikmalapriliano&theme=dark" alt="Top Languages" />
 </p>
+
+<br>
 
 ---
 
