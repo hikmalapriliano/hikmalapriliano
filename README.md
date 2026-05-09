@@ -39,7 +39,6 @@ I am a passionate and highly dedicated **IT Support Specialist** with a deep lov
 ---
 
 <!-- ENGINEERING METRICS ALTERNATIF -->
-<hr />
 
 <h3>📊 Engineering Metrics</h3>
 
