@@ -56,7 +56,7 @@ I am a passionate and highly dedicated **IT Support Specialist** with a deep lov
 
 ### 🏆 Achievements & Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hikmalapriliano&theme=grass&no-frame=true&margin-w=15" alt="Github Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hikmalapriliano&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
