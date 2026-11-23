@@ -1,62 +1,54 @@
-<!-- HEADER BANNER ENTERPRISE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c853&height=200&section=header&text=Hikmal%20Apriliano&fontSize=65&fontColor=ffffff&desc=IT%20Support%20|%20Network%20Admin%20|%20Full-stack%20Developer&descSize=20&descAlignVertical=55&animation=fadeIn" alt="Hikmal's Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c853&height=200&section=header&text=Hikmal%20Apriliano&fontSize=65&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20Laravel%20%C2%B7%20Next.js%20|%20ERP%20%26%20Internal%20Systems&descSize=20&descAlignVertical=55&animation=fadeIn" alt="Hikmal's Banner" />
 </p>
 
-<h2 align="center">Technical Support Specialist & Infrastructure Engineer</h2>
+<h2 align="center">Full-Stack Developer · Open to Remote</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hikmal-rizqy-putra-apriliano-163253279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://hikmalapriliano.my.id/" target="_blank">
+  <a href="[PORTFOLIO-URL-YANG-BENAR]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF4B11?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<hr />
+---
 
-### 📖 Professional Profile
+### 👋 About
 
-I am a passionate and highly dedicated **IT Support Specialist** with a deep love for solving technical puzzles. From troubleshooting hardware issues like faulty motherboards to fixing corrupt drivers, I ensure every technical challenge is resolved efficiently.
+Full-Stack Developer with 3+ years in IT. I started in IT support and network infrastructure, so I build software around real operational needs. Currently building an ERP, a ticketing system, and SLA tracking for factory operations at PT Nusantara Building Industries.
 
-* **Infrastructure & Networking:** Proficient in managing seamless network operations across wired and Wi-Fi environments.
-* **Security Systems:** Specialized expertise in **CCTV systems**, including professional installation, configuration, and maintenance to ensure environmental security.
-* **Full-stack Development:** Skilled in building robust applications using modern frameworks and managing complex database architectures.
+- **Backend:** Laravel, CodeIgniter 3, REST APIs
+- **Frontend:** Next.js, React
+- **Security-minded:** SQL Injection prevention, Cisco & EC-Council certified
+- **Infra background:** LAN/WAN, fiber optic, IP CCTV, MikroTik
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🚀 Featured Projects
 
-| Category | Skills & Technologies |
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [**Project 1 name**]([link]) | [One-line problem + result] | Laravel, MySQL |
+| [**Project 2 name**]([link]) | [One-line problem + result] | Next.js, PostgreSQL |
+| [**Project 3 name**]([link]) | [One-line problem + result] | [stack] |
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
 | :--- | :--- |
-| **Development** | JavaScript, Laravel, React, Next.js, PHP |
+| **Development** | JavaScript, PHP, Laravel, React, Next.js |
 | **Databases** | MySQL, PostgreSQL, Microsoft SQL Server |
-| **Infrastructure** | MikroTik, Networking (Cable/Wi-Fi), CCTV Systems |
-| **Hardware** | Hardware Troubleshooting, Motherboard Repair, Driver Maintenance |
-| **Tools** | Docker, Linux, Git, PowerShell |
+| **Infrastructure** | MikroTik, Linux, Docker, Git, PowerShell |
+| **Also** | Networking, CCTV systems, hardware troubleshooting |
 
 ---
 
-<!-- ENGINEERING METRICS ALTERNATIF -->
-
-<h3>📊 Engineering Metrics</h3>
-
-<br>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikmalapriliano&theme=dark" alt="Hikmal's Details" />
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hikmalapriliano&theme=dark" alt="Top Languages" />
-</p>
-
-<br>
-
----
-
-### 🏆 Achievements & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hikmalapriliano&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
