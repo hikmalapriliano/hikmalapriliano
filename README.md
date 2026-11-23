@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td align="center" width="240">
-      <img src="./profile.png" width="200" alt="Hikmal Rizqy Putra Apriliano" />
+      <img src="https://github.com/hikmalapriliano.png" width="200" alt="Hikmal Rizqy Putra Apriliano" />
     </td>
     <td valign="middle">
       <h2>Full-Stack Developer</h2>
